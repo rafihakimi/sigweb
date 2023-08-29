@@ -1,7 +1,6 @@
 # Praktikum Sistem Informasi Geografis Berbasis Web 2023
 
 Minggu 1 dan 2
-<a href="https://geodesi.ugm.ac.id/">Link ini mengarah ke Website Teknik Geodesi</a>
 
 <a href="/sigweb/M1_2_Soal_1.html">Soal 1</a>
 
