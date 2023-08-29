@@ -6,4 +6,4 @@ Minggu 1 dan 2
 
 <a href="/sigweb/M1_2_Soal_2.html">Soal 2</a>
 
-<a href="https://muhammadrafihakimi.wixsite.com/my-site">Soal 3</a>
+<a href="https://muhammadrafihakimi.wixsite.com/my-site.com">Soal 3</a>
