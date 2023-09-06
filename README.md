@@ -22,4 +22,28 @@ Minggu 1 dan 2<br><br>
 </h2>
 </p>
 
+<h1>
+Minggu 3<br><br>
+</h1>
+
+<h2>
+<a href="/sigweb/no-1.html">Soal 1</a><br><br>
+</h2>
+
+<h2>
+<a href="/sigweb/no-2.html">Soal 2</a><br><br>
+</h2>
+
+<h2>
+<a href="/sigweb/no-3.html">Soal 3</a><br><br>
+</h2>
+
+<h2>
+<a href="/sigweb/no-4.html">Soal 4</a><br><br>
+</h2>
+
+<h2>
+<a href="/sigweb/no-5.html">Soal 5</a><br><br>
+</h2>
+
 </body>
