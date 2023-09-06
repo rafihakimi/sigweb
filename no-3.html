@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/action_page.php">
+    Nama : <input id="nama" type="text" required><br>
+    Umur : <input id="umur" type="number" required>
+    <input type="button" onclick="isikan()" value="klik!">
+    <p id="demo"></p></form>
+
+    <script>
+        var lol;
+        function isikan() {
+            if (nama.value == null) {
+                alert("isikan nama!!")
+            }
+        }
+        function ket() {
+            if (umur.value < 5 && umur.value >-1)
+            { return 'Anda masih bayi'}
+            else if (umur.value < 15 && umur.value > 6) 
+            {return 'Anda masih anak-anak'}
+            else if (umur.value < 30 && umur.value > 16)
+            {return 'Anda masih remaja'}
+            else if (umur.value < 60 && umur.value > 31)
+            {return 'Anda sudah dewasa'}
+            else if (umur.value > 61)
+            {return 'Anda sudah dewasa'}
+            else {return 'Anda Game Over'}
+
+        }
+        function func() {
+            isikan()
+            document.getElementById("demo").innerHTML = ket()
+        }
+    </script>
+</body>
+</html>

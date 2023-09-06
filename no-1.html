@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<<<device-width>>>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hitung faktorial dari input</h1>
+    <h2>Masukkan sembarang angka </h2>
+    <input id="dataddd" type="number"/>
+    <input type="button" value="click" onclick="tampilan()"/>
+    <p id="demo"></p>
+    <script>
+        var lol;
+        function fatorial() {
+            num = dataddd.value
+            let answer = 1;
+            if (num == 0 || num == 1){
+                return answer;
+            }
+            else if(num>1){
+                for(var i = num;i >=1; i--){
+                    answer = answer * i;
+                }
+                return answer
+            }
+            else{
+                return "tidak ditemukan, angka harus positif"
+            }
+        }
+        function tampilan() {
+            document.getElementById("demo").innerHTML = 'angka faktorial dari ' + dataddd.value + ' adalah : ' + fatorial()
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Validasi Input</h1><br>
+    <a>Masukkan nama, password dan alamat email anda :</a><br><br>
+    
+    Nama : <input id="nama" type="text"/><br>
+    Password : <input id="psw" type="password" /><br>
+    E-mail : <input id="email" type="text"/><br>
+    <input type="button" onclick="tampilkan()" value="Klik"/>
+
+    <script>
+        var lol;
+        nm = nama.value, ps = psw.value, em = email.value
+        
+        function verif () {
+            if (nm && ps && em == 'ikan' && "ikan" && "ikan") {
+                return ('password benar')
+            }
+            else {return ('password salah')}
+        }
+        function tampilkan(){
+            alert(verif())
+        }
+    </script>
+
+</body>
+</html>
