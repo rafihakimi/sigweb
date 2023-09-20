@@ -42,6 +42,12 @@ Minggu 3<br><br>
 <a href="/sigweb/no-4.html">Soal 4</a><br><br>
 </h2>
 
+<h1>
+Minggu 5<br><br>
+</h1
+<h2>
+<a href="/sigweb/m5_leaflet.html">Simple WebGIS</a><br><br>
+</h2>
 <h2>
 <a href="/sigweb/no-5.html">Soal 5</a><br><br>
 </h2>
