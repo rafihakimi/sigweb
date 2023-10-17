@@ -1,7 +1,5 @@
 # Praktikum Sistem Informasi Geografis Berbasis Web 2023
 
-<body>
-
 
 <p style="background-image: url('https://ft.ugm.ac.id/wp-content/uploads/sites/1862/2021/08/20200903_123924-2.jpg');">
 
@@ -58,4 +56,3 @@ Minggu 6<br><br>
 <h2>
 <a href="https://rafihakimi.github.io/sample-leafletjs"> Latihan WebGIS</a><br><br>
 
-</body>
